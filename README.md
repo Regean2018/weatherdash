@@ -1,3 +1,4 @@
+
 # WeatherDash – Command Line Weather Application
 
 WeatherDash is a **Python command-line weather dashboard** that allows users to check current weather conditions and a **5-day forecast** for any city.
