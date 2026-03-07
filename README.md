@@ -128,4 +128,3 @@ Possible improvements for future versions:
 ## Author
 
 Freeman
-Python Weather Dashboard Project
