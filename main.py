@@ -1,7 +1,7 @@
 """
 WeatherDash - Command Line Weather Application
 
-Author: Freeman
+Author: Regean Pitiya
 Uses Open-Meteo API to display current weather and forecasts.
 """
 
