@@ -127,4 +127,6 @@ Possible improvements for future versions:
 
 ## Author
 
-Freeman
+
+Regean Pitiya
+
