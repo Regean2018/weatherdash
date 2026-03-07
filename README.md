@@ -58,8 +58,8 @@ weather-dashboard/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
+git clone https://github.com/Regean2018/weatherdash.git
+cd weatherdash
 ```
 
 ### 2. Install dependencies
