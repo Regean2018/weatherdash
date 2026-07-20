@@ -128,5 +128,7 @@ Possible improvements for future versions:
 ## Author
 
 
-Regean Pitiya
+**Regean Pitiya**
+
+📧 regeanpitiya@yahoo.com
 
